@@ -1,2 +1,2 @@
 # service
-spring-cloud-zipkin 配置被监控的项目
+spring-cloud-zipkin配置被监控的项目
